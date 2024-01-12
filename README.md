@@ -1,7 +1,7 @@
 <h2 align='center'> Hola, Bienvenido!.</h2>
 <h3>Mi nombre es Matias y haré una breve presentación sobre mis conocimientos y trabajos realizados.</h3>
 
-<h5>Conocimientos</h5>
+<h4>Conocimientos</h4>
 <h6>Lenguajes de programación</h6>
 <a href='https://www.python.org/'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='30' width='42' alt='Python logo' /></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height='30' width='42' alt='JavaScript logo' /></a>
@@ -33,4 +33,12 @@
 <a href='https://code.visualstudio.com/'><img src='./svg/vs-code.svg' height='30' width='42' alt='Visual Studio Code logo' /></a>
 <a href='https://www.sublimetext.com/'><img src='./svg/sublime-text.svg' height='30' width='42' alt='Sublime Text logo' /></a>
 
-<h5>Trabajos realizados / Proyectos</h5>
+<h4>Trabajos realizados / Proyectos</h4>
+
+
+<h4>Sober mi</h4>
+Me considero autodidacta, la mayoría de las tecnologías/herramientas de las que conozco las eh aprendido solo, leyendo, viendo videos y escribiendo a prueba y error, además de ir aplicando lo aprendido en mis estudios universitarios (Licenciatura Informática, aún soy estudiante). Me gusta la programación, me gusta el análisis de código, el desarrollo, las aplicaciones de refactor y patrones de diseño.
+Como dato personal, también me gusta el deporte y la actividad física en general, desde chico mantengo constancia en esto y es algo a lo que le doy mucha importancia.
+
+(LinkedIn)[https://www.linkedin.com/in/matias-diz-rendani/]
+(FreeCodeCamp)[https://www.freecodecamp.org/Matias-DR]
