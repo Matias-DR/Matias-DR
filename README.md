@@ -34,14 +34,17 @@
 <a href='https://www.sublimetext.com/'><img src='./svg/sublime-text.svg' height='30' width='42' alt='Sublime Text logo'/></a>
 
 <h4>Trabajos realizados/ Proyectos</h4>
+<!-- DEV -->
 
-
-<h4>Sober mi</h4>
-Me considero autodidacta, la mayoría de las tecnologías/herramientas de las que conozco las eh aprendido solo, leyendo, viendo videos y escribiendo a prueba y error, además de ir aplicando lo aprendido en mis estudios universitarios (Licenciatura Informática, aún soy estudiante). Me gusta la programación, me gusta el análisis de código, el desarrollo, las aplicaciones de refactor y patrones de diseño.
-Como dato personal, también me gusta el deporte y la actividad física en general, desde chico mantengo constancia en esto y es algo a lo que le doy mucha importancia.
+<h4>Portfolio Web</h4>
+<!-- DEV -->
 
 <h4>Redes</h4>
 
 [LinkedIn](https://www.linkedin.com/in/matias-diz-rendani/)
 <br clear="both">
 [FreeCodeCamp](https://www.freecodecamp.org/Matias-DR)
+
+<h4>Sober mi</h4>
+Me considero autodidacta, la mayoría de las tecnologías/herramientas de las que conozco las eh aprendido solo, leyendo, viendo videos y escribiendo a prueba y error, además de ir aplicando lo aprendido en mis estudios universitarios (Licenciatura Informática, aún soy estudiante). Me gusta la programación, me gusta el análisis de código, el desarrollo, las aplicaciones de refactor y patrones de diseño.
+Como dato personal, también me gusta el deporte y la actividad física en general, desde chico mantengo constancia en esto y es algo a lo que le doy mucha importancia.
