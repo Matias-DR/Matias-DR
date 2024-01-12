@@ -1,6 +1,7 @@
-<h2 align='center'> Hola! 👋 Bienvenido a mi presentación.</h2>
-<h3 align='center'> Dev Front/Back-end autodidacta.</h3>
+<h2 align='center'> Hola, Bienvenido!.</h2>
+<h3>Mi nombre es Matias y haré una breve presentación sobre mis conocimientos y trabajos realizados.</h3>
 
+<h5>Conocimientos</h5>
 <h6>Lenguajes de programación</h6>
 <a href='https://www.python.org/'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='30' width='42' alt='Python logo' /></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height='30' width='42' alt='JavaScript logo' /></a>
@@ -31,3 +32,5 @@
 <h6>Editores de texto / IDEs</h6>
 <a href='https://code.visualstudio.com/'><img src='./svg/vs-code.svg' height='30' width='42' alt='Visual Studio Code logo' /></a>
 <a href='https://www.sublimetext.com/'><img src='./svg/sublime-text.svg' height='30' width='42' alt='Sublime Text logo' /></a>
+
+<h5>Trabajos realizados / Proyectos</h5>
