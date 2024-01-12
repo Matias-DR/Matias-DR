@@ -1,5 +1,4 @@
-<h2 align='center'> Hola, Bienvenido!.</h2>
-<h3>Mi nombre es Matias y haré una breve presentación sobre mis conocimientos y trabajos realizados.</h3>
+<h2 align='center'> Hola, Bienvenido a mi Presentación!.</h2>
 
 <h4>Conocimientos</h4>
 <h6>Lenguajes de programación</h6>
