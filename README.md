@@ -1,5 +1,10 @@
 <h1 align='center'> Hola, Bienvenido a mi Presentación! 👋</h1>
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 <h3>Conocimientos</h3>
 <h6>Lenguajes de programación</h6>
 <a href='https://www.python.org/'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='30' width='42' alt='Python logo'/></a>
