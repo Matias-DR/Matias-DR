@@ -32,7 +32,9 @@
 
 <h4>Redes</h4>
 
-<a href='https://www.linkedin.com/in/matias-diz-rendani/'><img src='./svg/vs-code.svg' height='30' width='42' alt='LinkedIn logo'/></a> <a href='https://www.freecodecamp.org/Matias-DR'><img src='./svg/vs-code.svg' height='30' width='42' alt='FreeCodeCamp logo'/></a> <a href='https://www.twitch.tv/matibaratt'><img src='./svg/vs-code.svg' height='30' width='42' alt='Twitch logo'/></a>
+<a href='https://www.linkedin.com/in/matias-diz-rendani/'><img src='./svg/linkedin.svg' height='30' width='42' alt='LinkedIn logo'/></a>
+<a href='https://www.freecodecamp.org/Matias-DR'><img src='./svg/freecodecamp.svg' height='30' width='42' alt='FreeCodeCamp logo'/></a>
+<a href='https://www.twitch.tv/matibaratt'><img src='./svg/twitch.svg' height='30' width='42' alt='Twitch logo'/></a>
 
 
 <h4>Sober mi</h4>
