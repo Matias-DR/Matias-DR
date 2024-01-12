@@ -9,8 +9,8 @@
 <a href='https://www.oracle.com/ar/java/'><img src='./svg/java.svg' height='30' width='42' alt='Java logo' /></a>
 
 <h6>Frameworks y Librerías</h6>
-<a href='https://reactjs.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png' height='30' width='42' alt='React logo' /></a>
-<a href='https://nextjs.org/'><img src='https://img.icons8.com/color/48/000000/nextjs.png' height='30' width='42' alt='Nextjs logo' /></a>
+<a href='https://reactjs.org/'><img src='./svg/react.svg' height='30' width='42' alt='React logo' /></a>
+<a href='https://nextjs.org/'><img src='./svg/nextjs.svg' height='30' width='42' alt='Nextjs logo' /></a>
 <a href='https://expressjs.com/'><img src='./svg/express.svg' height='30' width='42' alt='express logo' /></a>
 <a href='https://mui.com/material-ui/getting-started/'><img src='./svg/mui-material.svg' height='30' width='42' alt='mui material logo' /></a>
 
