@@ -20,9 +20,7 @@
 <a href='#'><img src='./svg/bootstrap.svg' height='30' width='42' alt='Bootstrap logo' /></a>
 
 <h6>Bases de datos y ORMs</h6>
-<a href='#'><img src='./svg/sql.svg' height='30' width='42' alt='SQL logo' /></a>
 <a href='https://www.mysql.com/'><img src='./svg/mysql.svg' height='30' width='42' alt='MySQL logo' /></a>
-<a href='#'><img src='./svg/nosql.svg' height='30' width='42' alt='NoSQL logo' /></a>
 <a href='https://www.mongodb.com/es'><img src='./svg/mongodb.svg' height='30' width='42' alt='MongoDB logo' /></a>
 <a href='https://mongoosejs.com'><img src='./svg/mongoose.svg' height='30' width='42' alt='mongoose logo' /></a>
 
