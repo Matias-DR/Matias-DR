@@ -5,7 +5,7 @@
 <a href='https://www.python.org/'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='30' width='42' alt='Python logo' /></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height='30' width='42' alt='JavaScript logo' /></a>
 <a href='https://www.typescriptlang.org/'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' height='30' width='42' alt='TypeScript logo' /></a>
-<a href='https://www.oracle.com/ar/java/'><img src='' height='30' width='42' alt='TypeScript logo' /></a>
+<a href='https://www.oracle.com/ar/java/'><img src='./svg/java.svg' height='30' width='42' alt='Java logo' /></a>
 
 <h6>Frameworks y Librerías</h6>
 <a href='https://reactjs.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png' height='30' width='42' alt='React logo' /></a>
