@@ -1,4 +1,4 @@
-<h2 align='center'> Hola, Bienvenido a mi Presentación! 👋</h2>
+<h1 align='center'> Hola, Bienvenido a mi Presentación! 👋</h1>
 
 <h4>Conocimientos</h4>
 <h6>Lenguajes de programación</h6>
