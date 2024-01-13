@@ -23,7 +23,13 @@
 
 
 <h4>Trabajos realizados / Proyectos</h4>
-<!-- DEV -->
+
+## Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose
+<!-- gif -->
+![gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
+
+## Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA
+<!-- gif -->
 
 
 <h4>Portfolio Web</h4>
