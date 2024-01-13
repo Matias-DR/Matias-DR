@@ -26,10 +26,11 @@
 
 <h4> Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose </h4>
 <!-- gif -->
-<img alt='clean-architecture backend' src='./gif/test.gif'/>
+<div align='center'><img src='./gif/test.gif' height='218' width='111' alt='clean-architecture backend'/></div>
 
 <h4> Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA </h4>
 <!-- gif -->
+<div align='center'><img src='./gif/test.gif' height='218' width='111' alt='clean-architecture backend'/></div>
 
 
 ## Portfolio Web
