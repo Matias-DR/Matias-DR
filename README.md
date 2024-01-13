@@ -24,11 +24,11 @@
 
 <h3>Trabajos realizados / Proyectos</h3>
 
-<h6> Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose </h6>
+<h4> Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose </h4>
 <!-- gif -->
 <img alt='clean-architecture backend' src='./gif/test.gif'/>
 
-<h6> Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA </h6>
+<h4> Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA </h4>
 <!-- gif -->
 
 
