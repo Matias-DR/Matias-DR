@@ -26,7 +26,7 @@
 
 <h6> Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose </h6>
 <!-- gif -->
-![gif](./gif/test.gif)
+[gif]('./gif/test.gif')
 
 <h6> Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA </h6>
 <!-- gif -->
