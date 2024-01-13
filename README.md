@@ -35,6 +35,7 @@
 
 ## Portfolio Web
 <!-- DEV -->
+<div align='center'><img src='./gif/test.gif' width='218' height='111' alt='clean-architecture backend'/></div>
 
 
 ## Redes
@@ -44,6 +45,7 @@
 <a href='https://www.twitch.tv/matibaratt'><img src='./svg/twitch.svg' height='30' width='42' alt='Twitch logo'/></a>
 
 
-## Sober mi
+<!-- ESTO VA AL PORTFOLIO -->
+<!-- ## Sober mi
 Me considero autodidacta, la mayoría de las tecnologías/herramientas de las que conozco las eh aprendido solo, leyendo, viendo videos y escribiendo a prueba y error, además de ir aplicando lo aprendido en mis estudios universitarios (Licenciatura Informática, aún soy estudiante). Me gusta la programación, me gusta el análisis de código, el desarrollo, las aplicaciones de refactor y patrones de diseño.
-Como dato personal, también me gusta el deporte y la actividad física en general, desde chico mantengo constancia en esto y es algo a lo que le doy mucha importancia.
+Como dato personal, también me gusta el deporte y la actividad física en general, desde chico mantengo constancia en esto y es algo a lo que le doy mucha importancia. -->
