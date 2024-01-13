@@ -22,13 +22,13 @@
 <a href='https://code.visualstudio.com/'><img src='./svg/vs-code.svg' height='30' width='42' alt='Visual Studio Code logo'/></a> <a href='https://www.sublimetext.com/'><img src='./svg/sublime-text.svg' height='30' width='42' alt='Sublime Text logo'/></a>
 
 
-<h4>Trabajos realizados / Proyectos</h4>
+<h3>Trabajos realizados / Proyectos</h3>
 
-## Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose
+<h6> Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose </h6>
 <!-- gif -->
-![gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
+![gif](./gif/test.gif)
 
-## Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA
+<h6> Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA </h6>
 <!-- gif -->
 
 
