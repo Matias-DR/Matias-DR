@@ -26,11 +26,17 @@
 
 * <h4> Back-end: CRUD & Session's - Clean Architecture & Typescript & express & mongoose </h4>
 <!-- gif -->
-<div align='center'><img src='./gif/makemymenu-frontend.gif' width='218' height='111' alt='clean-architecture backend'/></div>
+<div align='center'>
+  <img src='./gif/makemymenu-frontend.gif' width='218' height='111' alt='clean-architecture backend'/>
+  ![MakeMyMenu - Backend](https://github.com/Matias-DR/makemymenu-backend)
+</div>
 
 * <h4> Front-end: Creación de cuenta manual o con Google y manejo de la sesión - Creación de recetas con IA </h4>
 <!-- gif -->
-<div align='center'><img src='./gif/test.gif' width='218' height='111' alt='clean-architecture backend'/></div>
+<div align='center'>
+  <img src='./image/makemymenu-backend.png' width='218' height='111' alt='clean-architecture backend'/>
+  ![MakeMyMenu - Frontend](https://github.com/Matias-DR/makemymenu-frontend)
+</div>
 
 
 ## Portfolio Web
